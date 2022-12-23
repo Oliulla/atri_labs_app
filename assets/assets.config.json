@@ -1,0 +1,89 @@
+{
+  "brand_img.svg": {
+    "mime": "image/svg+xml"
+  },
+  "person_img.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "logo_1.png": {
+    "mime": "image/png"
+  },
+  "logo_2.png": {
+    "mime": "image/png"
+  },
+  "logo_3.png": {
+    "mime": "image/png"
+  },
+  "logo_4.png": {
+    "mime": "image/png"
+  },
+  "serv_1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "serv_2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "serv_3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "project_1.png": {
+    "mime": "image/png"
+  },
+  "project_2.png": {
+    "mime": "image/png"
+  },
+  "project_3.png": {
+    "mime": "image/png"
+  },
+  "left_arrow.png": {
+    "mime": "image/png"
+  },
+  "right_arrow.png": {
+    "mime": "image/png"
+  },
+  "prod_design_1.png": {
+    "mime": "image/png"
+  },
+  "prod_design_2.png": {
+    "mime": "image/png"
+  },
+  "prod_design_3.png": {
+    "mime": "image/png"
+  },
+  "prod_design_4.png": {
+    "mime": "image/png"
+  },
+  "prod_design_5.webp": {
+    "mime": "image/webp"
+  },
+  "book.png": {
+    "mime": "image/png"
+  },
+  "bag.png": {
+    "mime": "image/png"
+  },
+  "arrow_right_up.png": {
+    "mime": "image/png"
+  },
+  "ex_1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "ex_2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "ex_3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "testimonial_person.jpg": {
+    "mime": "image/jpeg"
+  },
+  "colon.svg": {
+    "mime": "image/svg+xml"
+  },
+  "email_footer.svg": {
+    "mime": "image/svg+xml"
+  },
+  "webflow-badge-icon.svg": {
+    "mime": "image/svg+xml"
+  }
+}
